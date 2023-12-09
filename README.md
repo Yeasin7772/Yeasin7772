@@ -21,14 +21,15 @@
 <h2  align="left" >My Skills</h2>
 <p align="center">
 <img height="60" src="./HTML.svg"/>
-<img height="60" src="./images/CSS.svg"/>
-<img height="60" src="./images/JavaScript.svg"/>
-<img height="60" src="./images/Bootstrap.svg"/>
-<img height="60" src="./images/tailwind.svg"/>
-<img height="60" src="./images/Firebase-Light.svg"/>
-<img height="60" src="./images/ExpressJS-Dark.svg"/>
-<img height="60" src="./images/NodeJS-Dark.svg"/>
-<img height="60" src="./images/React-Dark.s
+<img height="60" src="./CSS.svg"/>
+<img height="60" src="./TailwindCSS-Dark.svg"/>
+<img height="60" src="./JavaScript.svg"/>
+<img height="60" src="./React-Dark.svg"/>
+<img height="60" src="./Firebase-Dark.svg"/>
+<img height="60" src="./MongoDB.svg"/>
+<img height="60" src="./ExpressJS-Dark.svg"/>
+<img height="60" src="./NodeJS-Light.svg"/>
+
 
 
 <h3>Current Overview</h3>
@@ -40,3 +41,15 @@
 - 📫 How to reach me: **yeasin26yeasin26@gamil.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I like Fun 😁
+
+
+
+
+
+<!-- social icon and link -->
+<h3>Connect Me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yeasin-molla-80a30423b/" target="blank"><img align="center" src="./174857.png" alt="Yeasin Molla" height="40" width="60" /></a>
+<a href="https://www.facebook.com/yasin.ararfa/" target="blank"><img align="center" src="./Facebook_Logo_2023.png" alt="Yeasin" height="40" width="60" /></a>
+
+</p>
