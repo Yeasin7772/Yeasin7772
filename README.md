@@ -16,6 +16,21 @@
 <p><img height="60" src='./images.png'></img> </p>
 
 
+
+<!-- my skills -->
+<h2  align="left" >My Skills</h2>
+<p align="center">
+<img height="60" src="./HTML.svg"/>
+<img height="60" src="./images/CSS.svg"/>
+<img height="60" src="./images/JavaScript.svg"/>
+<img height="60" src="./images/Bootstrap.svg"/>
+<img height="60" src="./images/tailwind.svg"/>
+<img height="60" src="./images/Firebase-Light.svg"/>
+<img height="60" src="./images/ExpressJS-Dark.svg"/>
+<img height="60" src="./images/NodeJS-Dark.svg"/>
+<img height="60" src="./images/React-Dark.s
+
+
 <h3>Current Overview</h3>
 
 - 🔭 I’m currently working on My portfolio Website
