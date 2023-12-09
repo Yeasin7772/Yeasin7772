@@ -1,16 +1,22 @@
-### Hi there 👋
+<!-- about me -->
+<h1 align="center" >Hi 👋 I,m Yeasin Molla </h1>
+<h3 align="center" >A passionate web developer...</h3>
 
-<!--
-**Yeasin7772/Yeasin7772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2  align="left" >Status⚡</h2>
+<div align='center'>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yeasin7772&theme=radical" alt="GitHub Streak" /></a>
+</div> 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yeasin7772&theme=radical)](https://git.io/streak-stats) -->
+
+
+<h3>Current Overview</h3>
+
+- 🔭 I’m currently working on My portfolio Website
+- 🌱 I’m currently learning ...Next.js
+- 👯 I’m looking to collaborate on Full Stack Project
+- 💬 Ask me about ...HTML,CSS,JS & React
+- 📫 How to reach me: **yeasin26yeasin26@gamil.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ... I like Fun 😁
