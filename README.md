@@ -38,7 +38,7 @@
 - 🌱 I’m currently learning ...Next.js
 - 👯 I’m looking to collaborate on Full Stack Project
 - 💬 Ask me about ...HTML,CSS,JS & React
-- 📫 How to reach me: **yeasin26yeasin26@gamil.com**
+- 📫 How to reach me: **mdyeasinmolla7772@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I like Fun 😁
 
